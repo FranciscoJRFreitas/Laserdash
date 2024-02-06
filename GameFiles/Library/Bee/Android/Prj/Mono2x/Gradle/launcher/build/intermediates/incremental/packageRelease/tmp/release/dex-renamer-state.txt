@@ -1,0 +1,4 @@
+#Thu Feb 01 15:57:12 CET 2024
+base.0=C\:\\Users\\franf\\workspace-google\\Chrono-Resurgence\\My project (1)\\Library\\Bee\\Android\\Prj\\Mono2x\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
